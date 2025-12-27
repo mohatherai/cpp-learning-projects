@@ -29,7 +29,7 @@ It is a console-based Rock–Paper–Scissors game where the player competes aga
 
 ## 🚀 How to Run
 1. Compile the program:
-```bash
+
 g++ main.cpp -o game
 
 
@@ -56,3 +56,4 @@ g++ main.cpp -o game
 **Mohammed**  
 AI Engineering Student  
 Learning C++ and programming fundamentals
+```bash
