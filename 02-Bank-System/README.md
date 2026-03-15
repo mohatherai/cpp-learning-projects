@@ -36,5 +36,3 @@ The project is highly modular, separating logic into distinct components:
 * Screens: Handles the console UI and user inputs.
 * Core Classes: Business logic for Clients (clsBankClient), Users (clsUser), and Currencies.
 * Libraries: Custom utility classes for Date manipulation (clsDate), String operations (clsString), and Input Validation (clsInputValidate).
-
-## 📸 Screenshots
